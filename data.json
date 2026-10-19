@@ -52,8 +52,8 @@
       "pinyin": "nín",
       "zhuyin": "ㄋㄧㄣˊ",
       "vietnamese": "ngài, quý vị (lịch sự)",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "您好，請問您要喝什麼？",
+      "example_vi": "Xin chào, xin hỏi quý khách muốn uống gì ạ?",
       "pos": "pron",
       "level": "beginner"
     },
@@ -85,8 +85,8 @@
       "pinyin": "tā",
       "zhuyin": "ㄊㄚ",
       "vietnamese": "nó (đồ vật, con vật)",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "這是我的貓，它很可愛。",
+      "example_vi": "Đây là con mèo của tôi, nó rất dễ thương.",
       "pos": "pron",
       "level": "beginner"
     },
@@ -107,8 +107,8 @@
       "pinyin": "nǐ men",
       "zhuyin": "ㄋㄧˇ ˙ㄇㄣ",
       "vietnamese": "các bạn",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "你們是學生嗎？",
+      "example_vi": "Các bạn là học sinh à?",
       "pos": "pron",
       "level": "beginner"
     },
@@ -118,8 +118,8 @@
       "pinyin": "tā men",
       "zhuyin": "ㄊㄚ ˙ㄇㄣ",
       "vietnamese": "họ",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "他們是我的朋友。",
+      "example_vi": "Họ là bạn của tôi.",
       "pos": "pron",
       "level": "beginner"
     },
@@ -129,8 +129,8 @@
       "pinyin": "dà jiā",
       "zhuyin": "ㄉㄚˋ ㄐㄧㄚ",
       "vietnamese": "mọi người",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "大家好！",
+      "example_vi": "Chào mọi người!",
       "pos": "pron",
       "level": "beginner"
     },
@@ -151,8 +151,8 @@
       "pinyin": "zhè ge",
       "zhuyin": "ㄓㄜˋ ˙ㄍㄜ",
       "vietnamese": "cái này",
-      "example_ch": "我要一個這個。",
-      "example_vi": "Tôi muốn một cái này.",
+      "example_ch": "我要這個。",
+      "example_vi": "Tôi muốn cái này.",
       "pos": "pron",
       "level": "beginner"
     },
@@ -184,8 +184,8 @@
       "pinyin": "zhè",
       "zhuyin": "ㄓㄜˋ",
       "vietnamese": "này, đây",
-      "example_ch": "我要一個這個。",
-      "example_vi": "Tôi muốn một cái này.",
+      "example_ch": "這是我的爸爸。",
+      "example_vi": "Đây là bố của tôi.",
       "pos": "other",
       "level": "beginner"
     },
@@ -195,8 +195,8 @@
       "pinyin": "nà",
       "zhuyin": "ㄋㄚˋ",
       "vietnamese": "kia, đó",
-      "example_ch": "我想看那個。",
-      "example_vi": "Tôi muốn xem cái kia.",
+      "example_ch": "那是我的書。",
+      "example_vi": "Kia là sách của tôi.",
       "pos": "other",
       "level": "beginner"
     },
@@ -217,8 +217,8 @@
       "pinyin": "nà lǐ",
       "zhuyin": "ㄋㄚˋ ㄌㄧˇ",
       "vietnamese": "ở kia",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "廁所在那裡。",
+      "example_vi": "Nhà vệ sinh ở đằng kia.",
       "pos": "other",
       "level": "beginner"
     },
@@ -283,8 +283,8 @@
       "pinyin": "jǐ",
       "zhuyin": "ㄐㄧˇ",
       "vietnamese": "mấy",
-      "example_ch": "商店幾點關門？",
-      "example_vi": "Cửa hàng mấy giờ đóng cửa?",
+      "example_ch": "你有幾個哥哥？",
+      "example_vi": "Bạn có mấy anh trai?",
       "pos": "other",
       "level": "beginner"
     },
@@ -305,8 +305,8 @@
       "pinyin": "zěn me",
       "zhuyin": "ㄗㄣˇ ˙ㄇㄜ",
       "vietnamese": "thế nào, làm sao",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "這個字怎麼唸？",
+      "example_vi": "Chữ này đọc thế nào?",
       "pos": "other",
       "level": "beginner"
     },
@@ -360,8 +360,8 @@
       "pinyin": "yào",
       "zhuyin": "ㄧㄠˋ",
       "vietnamese": "muốn, cần, sẽ",
-      "example_ch": "我要一個這個。",
-      "example_vi": "Tôi muốn một cái này.",
+      "example_ch": "我要這個。",
+      "example_vi": "Tôi muốn cái này.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -382,8 +382,8 @@
       "pinyin": "chī",
       "zhuyin": "ㄔ",
       "vietnamese": "ăn",
-      "example_ch": "我現在要去吃飯。",
-      "example_vi": "Bây giờ tôi đi ăn cơm.",
+      "example_ch": "我想吃牛肉麵。",
+      "example_vi": "Tôi muốn ăn mì bò.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -437,8 +437,8 @@
       "pinyin": "huí",
       "zhuyin": "ㄏㄨㄟˊ",
       "vietnamese": "về, trở lại",
-      "example_ch": "我們回家吧。",
-      "example_vi": "Chúng ta về nhà thôi.",
+      "example_ch": "我明天回越南。",
+      "example_vi": "Ngày mai tôi về Việt Nam.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -459,8 +459,8 @@
       "pinyin": "tīng",
       "zhuyin": "ㄊㄧㄥ",
       "vietnamese": "nghe",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我喜歡聽音樂。",
+      "example_vi": "Tôi thích nghe nhạc.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -470,8 +470,8 @@
       "pinyin": "shuō",
       "zhuyin": "ㄕㄨㄛ",
       "vietnamese": "nói",
-      "example_ch": "誰在說話？",
-      "example_vi": "Ai đang nói chuyện vậy?",
+      "example_ch": "你可以說慢一點嗎？",
+      "example_vi": "Bạn có thể nói chậm một chút không?",
       "pos": "verb",
       "level": "beginner"
     },
@@ -492,8 +492,8 @@
       "pinyin": "dú",
       "zhuyin": "ㄉㄨˊ",
       "vietnamese": "đọc",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我每天讀中文。",
+      "example_vi": "Ngày nào tôi cũng đọc tiếng Trung.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -503,8 +503,8 @@
       "pinyin": "xiě",
       "zhuyin": "ㄒㄧㄝˇ",
       "vietnamese": "viết",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "請寫你的名字。",
+      "example_vi": "Hãy viết tên của bạn.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -514,8 +514,8 @@
       "pinyin": "mǎi",
       "zhuyin": "ㄇㄞˇ",
       "vietnamese": "mua",
-      "example_ch": "老闆，買單。",
-      "example_vi": "Ông chủ ơi, tính tiền.",
+      "example_ch": "我買很多，算我便宜一點吧。",
+      "example_vi": "Tôi mua nhiều, bớt cho tôi chút nhé.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -525,8 +525,8 @@
       "pinyin": "mài",
       "zhuyin": "ㄇㄞˋ",
       "vietnamese": "bán",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "這家店賣水果。",
+      "example_vi": "Cửa hàng này bán trái cây.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -547,8 +547,8 @@
       "pinyin": "xué",
       "zhuyin": "ㄒㄩㄝˊ",
       "vietnamese": "học",
-      "example_ch": "我們是學生。",
-      "example_vi": "Chúng tôi là học sinh.",
+      "example_ch": "我正在學中文。",
+      "example_vi": "Tôi đang học tiếng Trung.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -580,8 +580,8 @@
       "pinyin": "ài",
       "zhuyin": "ㄞˋ",
       "vietnamese": "yêu",
-      "example_ch": "我妹妹很可愛。",
-      "example_vi": "Em gái tôi rất dễ thương.",
+      "example_ch": "我愛你勝過愛網路。",
+      "example_vi": "Anh yêu em hơn cả yêu mạng Internet.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -602,8 +602,8 @@
       "pinyin": "zhī dào",
       "zhuyin": "ㄓ ㄉㄠˋ",
       "vietnamese": "biết",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我不知道。",
+      "example_vi": "Tôi không biết.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -624,8 +624,8 @@
       "pinyin": "zuò",
       "zhuyin": "ㄗㄨㄛˋ",
       "vietnamese": "làm",
-      "example_ch": "我媽媽在做飯。",
-      "example_vi": "Mẹ tôi đang nấu cơm.",
+      "example_ch": "今天有很多工作要做。",
+      "example_vi": "Hôm nay có rất nhiều việc phải làm.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -668,8 +668,8 @@
       "pinyin": "shuì jiào",
       "zhuyin": "ㄕㄨㄟˋ ㄐㄧㄠˋ",
       "vietnamese": "ngủ",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我十一點睡覺。",
+      "example_vi": "Tôi đi ngủ lúc mười một giờ.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -724,7 +724,7 @@
       "zhuyin": "ㄓㄠˇ ㄑㄧㄢˊ",
       "vietnamese": "thối tiền",
       "example_ch": "你可以找錢嗎？",
-      "example_vi": "Bạn có tiền thối không?",
+      "example_vi": "Bạn có tiền thối lại không?",
       "pos": "verb",
       "level": "beginner"
     },
@@ -811,8 +811,8 @@
       "pinyin": "qǐng",
       "zhuyin": "ㄑㄧㄥˇ",
       "vietnamese": "mời; xin, vui lòng",
-      "example_ch": "請給我兩個人的位子。",
-      "example_vi": "Cho tôi chỗ ngồi hai người.",
+      "example_ch": "請給我菜單。",
+      "example_vi": "Cho tôi xin thực đơn.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -855,8 +855,8 @@
       "pinyin": "děng",
       "zhuyin": "ㄉㄥˇ",
       "vietnamese": "đợi",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "請等一下。",
+      "example_vi": "Xin chờ một chút.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -910,8 +910,8 @@
       "pinyin": "zhuǎn",
       "zhuyin": "ㄓㄨㄢˇ",
       "vietnamese": "rẽ, quẹo",
-      "example_ch": "一直走，然後左轉。",
-      "example_vi": "Đi thẳng rồi rẽ trái.",
+      "example_ch": "前面轉一下就到了。",
+      "example_vi": "Rẽ ở phía trước là đến.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -932,8 +932,8 @@
       "pinyin": "yòu zhuǎn",
       "zhuyin": "ㄧㄡˋ ㄓㄨㄢˇ",
       "vietnamese": "rẽ phải",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "下一個路口右轉。",
+      "example_vi": "Đến ngã tư tiếp theo thì rẽ phải.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -1108,8 +1108,8 @@
       "pinyin": "zhǎo",
       "zhuyin": "ㄓㄠˇ",
       "vietnamese": "tìm",
-      "example_ch": "你可以找錢嗎？",
-      "example_vi": "Bạn có tiền thối không?",
+      "example_ch": "我在找我的手機。",
+      "example_vi": "Tôi đang tìm điện thoại của tôi.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -1141,8 +1141,8 @@
       "pinyin": "xiū xi",
       "zhuyin": "ㄒㄧㄡ ˙ㄒㄧ",
       "vietnamese": "nghỉ ngơi",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我們休息一下吧。",
+      "example_vi": "Chúng ta nghỉ một chút nhé.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -1152,8 +1152,8 @@
       "pinyin": "huì",
       "zhuyin": "ㄏㄨㄟˋ",
       "vietnamese": "sẽ; biết (làm)",
-      "example_ch": "我正在準備開會。",
-      "example_vi": "Tôi đang chuẩn bị họp.",
+      "example_ch": "堅持學習就會成功。",
+      "example_vi": "Kiên trì học tập sẽ thành công.",
       "pos": "verb",
       "level": "beginner"
     },
@@ -1295,8 +1295,8 @@
       "pinyin": "zǎo ān",
       "zhuyin": "ㄗㄠˇ ㄢ",
       "vietnamese": "chào buổi sáng",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "老師，早安！",
+      "example_vi": "Em chào thầy/cô buổi sáng ạ!",
       "pos": "other",
       "level": "beginner"
     },
@@ -1306,8 +1306,8 @@
       "pinyin": "wǎn ān",
       "zhuyin": "ㄨㄢˇ ㄢ",
       "vietnamese": "chúc ngủ ngon",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "晚安，明天見。",
+      "example_vi": "Chúc ngủ ngon, mai gặp nhé.",
       "pos": "other",
       "level": "beginner"
     },
@@ -1339,8 +1339,8 @@
       "pinyin": "míng tiān jiàn",
       "zhuyin": "ㄇㄧㄥˊ ㄊㄧㄢ ㄐㄧㄢˋ",
       "vietnamese": "mai gặp lại",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "好，我們明天見！",
+      "example_vi": "Được, mai mình gặp nhé!",
       "pos": "other",
       "level": "beginner"
     },
@@ -1350,8 +1350,8 @@
       "pinyin": "bú kè qi",
       "zhuyin": "ㄅㄨˊ ㄎㄜˋ ˙ㄑㄧ",
       "vietnamese": "không có gì",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "「謝謝你！」「不客氣。」",
+      "example_vi": "“Cảm ơn bạn!” “Không có gì.”",
       "pos": "other",
       "level": "beginner"
     },
@@ -1372,8 +1372,8 @@
       "pinyin": "duì bu qǐ",
       "zhuyin": "ㄉㄨㄟˋ ˙ㄅㄨ ㄑㄧˇ",
       "vietnamese": "xin lỗi",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "對不起，我遲到了。",
+      "example_vi": "Xin lỗi, tôi đến muộn.",
       "pos": "other",
       "level": "beginner"
     },
@@ -1438,8 +1438,8 @@
       "pinyin": "rén",
       "zhuyin": "ㄖㄣˊ",
       "vietnamese": "người",
-      "example_ch": "我是越南人。",
-      "example_vi": "Tôi là người Việt Nam.",
+      "example_ch": "我家有四個人。",
+      "example_vi": "Gia đình tôi có bốn người.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1449,8 +1449,8 @@
       "pinyin": "yuè nán",
       "zhuyin": "ㄩㄝˋ ㄋㄢˊ",
       "vietnamese": "Việt Nam",
-      "example_ch": "我是越南人。",
-      "example_vi": "Tôi là người Việt Nam.",
+      "example_ch": "我來自越南。",
+      "example_vi": "Tôi đến từ Việt Nam.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1482,8 +1482,8 @@
       "pinyin": "tái wān rén",
       "zhuyin": "ㄊㄞˊ ㄨㄢ ㄖㄣˊ",
       "vietnamese": "người Đài Loan",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "他是台灣人。",
+      "example_vi": "Anh ấy là người Đài Loan.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1504,8 +1504,8 @@
       "pinyin": "yuè nán yǔ",
       "zhuyin": "ㄩㄝˋ ㄋㄢˊ ㄩˇ",
       "vietnamese": "tiếng Việt",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "你會說越南語嗎？",
+      "example_vi": "Bạn biết nói tiếng Việt không?",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1537,8 +1537,8 @@
       "pinyin": "nǚ péng yǒu",
       "zhuyin": "ㄋㄩˇ ㄆㄥˊ ㄧㄡˇ",
       "vietnamese": "bạn gái",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "這是我的女朋友。",
+      "example_vi": "Đây là bạn gái của tôi.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1559,8 +1559,8 @@
       "pinyin": "lǎo shī",
       "zhuyin": "ㄌㄠˇ ㄕ",
       "vietnamese": "giáo viên",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我的中文老師很好。",
+      "example_vi": "Cô giáo tiếng Trung của tôi rất tốt.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1603,8 +1603,8 @@
       "pinyin": "jiě jie",
       "zhuyin": "ㄐㄧㄝˇ ˙ㄐㄧㄝ",
       "vietnamese": "chị gái",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我姊姊在台灣工作。",
+      "example_vi": "Chị gái tôi làm việc ở Đài Loan.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1614,8 +1614,8 @@
       "pinyin": "dì di",
       "zhuyin": "ㄉㄧˋ ˙ㄉㄧ",
       "vietnamese": "em trai",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我弟弟十歲。",
+      "example_vi": "Em trai tôi mười tuổi.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1658,8 +1658,8 @@
       "pinyin": "bīng",
       "zhuyin": "ㄅㄧㄥ",
       "vietnamese": "đá; lạnh",
-      "example_ch": "我想喝冰咖啡。",
-      "example_vi": "Tôi muốn uống cà phê đá.",
+      "example_ch": "給我一杯冰拿鐵。",
+      "example_vi": "Cho tôi một ly latte đá.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1680,8 +1680,8 @@
       "pinyin": "wèi zi",
       "zhuyin": "ㄨㄟˋ ˙ㄗ",
       "vietnamese": "chỗ ngồi",
-      "example_ch": "請給我兩個人的位子。",
-      "example_vi": "Cho tôi chỗ ngồi hai người.",
+      "example_ch": "我們兩位，有位子嗎？",
+      "example_vi": "Chúng tôi hai người, còn chỗ không?",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1702,8 +1702,8 @@
       "pinyin": "niú ròu",
       "zhuyin": "ㄋㄧㄡˊ ㄖㄡˋ",
       "vietnamese": "thịt bò",
-      "example_ch": "我想吃牛肉麵。",
-      "example_vi": "Tôi muốn ăn mì bò.",
+      "example_ch": "我不吃牛肉。",
+      "example_vi": "Tôi không ăn thịt bò.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1746,8 +1746,8 @@
       "pinyin": "nǎi chá",
       "zhuyin": "ㄋㄞˇ ㄔㄚˊ",
       "vietnamese": "trà sữa",
-      "example_ch": "我要一杯珍珠奶茶。",
-      "example_vi": "Cho tôi một ly trà sữa trân châu.",
+      "example_ch": "你比奶茶還甜。",
+      "example_vi": "Em còn ngọt hơn trà sữa.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1757,8 +1757,8 @@
       "pinyin": "kā fēi",
       "zhuyin": "ㄎㄚ ㄈㄟ",
       "vietnamese": "cà phê",
-      "example_ch": "我想喝冰咖啡。",
-      "example_vi": "Tôi muốn uống cà phê đá.",
+      "example_ch": "今天我想喝咖啡。",
+      "example_vi": "Hôm nay tôi muốn uống cà phê.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1812,8 +1812,8 @@
       "pinyin": "cài",
       "zhuyin": "ㄘㄞˋ",
       "vietnamese": "món ăn; rau",
-      "example_ch": "請給我菜單。",
-      "example_vi": "Cho tôi xin thực đơn.",
+      "example_ch": "這道菜很好吃。",
+      "example_vi": "Món này rất ngon.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -1823,8 +1823,8 @@
       "pinyin": "fàn",
       "zhuyin": "ㄈㄢˋ",
       "vietnamese": "cơm",
-      "example_ch": "我媽媽在做飯。",
-      "example_vi": "Mẹ tôi đang nấu cơm.",
+      "example_ch": "我想再吃一碗飯。",
+      "example_vi": "Tôi muốn ăn thêm một bát cơm.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -2010,8 +2010,8 @@
       "pinyin": "zuó tiān",
       "zhuyin": "ㄗㄨㄛˊ ㄊㄧㄢ",
       "vietnamese": "hôm qua",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "昨天很熱。",
+      "example_vi": "Hôm qua trời rất nóng.",
       "pos": "noun",
       "level": "beginner"
     },
@@ -2088,7 +2088,7 @@
       "zhuyin": "ㄆㄧㄥˊ ㄍㄨㄛˇ",
       "vietnamese": "táo",
       "example_ch": "我要一斤蘋果。",
-      "example_vi": "Tôi muốn một cân táo.",
+      "example_vi": "Tôi muốn một cân táo (cân Đài, khoảng 600g).",
       "pos": "noun",
       "level": "beginner"
     },
@@ -2153,8 +2153,8 @@
       "pinyin": "shāng diàn",
       "zhuyin": "ㄕㄤ ㄉㄧㄢˋ",
       "vietnamese": "cửa hàng",
-      "example_ch": "便利商店在哪裡？",
-      "example_vi": "Cửa hàng tiện lợi ở đâu?",
+      "example_ch": "商店幾點關門？",
+      "example_vi": "Cửa hàng mấy giờ đóng cửa?",
       "pos": "noun",
       "level": "beginner"
     },
@@ -2483,8 +2483,8 @@
       "pinyin": "ge",
       "zhuyin": "˙ㄍㄜ",
       "vietnamese": "cái (lượng từ chung)",
-      "example_ch": "我要一個這個。",
-      "example_vi": "Tôi muốn một cái này.",
+      "example_ch": "我需要三個。",
+      "example_vi": "Tôi cần ba cái.",
       "pos": "clf",
       "level": "beginner"
     },
@@ -2572,7 +2572,7 @@
       "zhuyin": "ㄐㄧㄣ",
       "vietnamese": "cân (khoảng 600g)",
       "example_ch": "我要一斤蘋果。",
-      "example_vi": "Tôi muốn một cân táo.",
+      "example_vi": "Tôi muốn một cân táo (cân Đài, khoảng 600g).",
       "pos": "clf",
       "level": "beginner"
     },
@@ -2604,8 +2604,8 @@
       "pinyin": "běn",
       "zhuyin": "ㄅㄣˇ",
       "vietnamese": "quyển",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我買了一本書。",
+      "example_vi": "Tôi đã mua một quyển sách.",
       "pos": "clf",
       "level": "beginner"
     },
@@ -2615,8 +2615,8 @@
       "pinyin": "diǎn",
       "zhuyin": "ㄉㄧㄢˇ",
       "vietnamese": "giờ; chút",
-      "example_ch": "湯有一點鹹。",
-      "example_vi": "Canh hơi mặn một chút.",
+      "example_ch": "現在三點。",
+      "example_vi": "Bây giờ là ba giờ.",
       "pos": "clf",
       "level": "beginner"
     },
@@ -2626,8 +2626,8 @@
       "pinyin": "hǎo",
       "zhuyin": "ㄏㄠˇ",
       "vietnamese": "tốt, hay; khỏe",
-      "example_ch": "你好，你叫什麼名字？",
-      "example_vi": "Xin chào, bạn tên là gì?",
+      "example_ch": "我很好，謝謝你。",
+      "example_vi": "Tôi khỏe, cảm ơn bạn.",
       "pos": "adj",
       "level": "beginner"
     },
@@ -2682,7 +2682,7 @@
       "zhuyin": "ㄒㄧㄢˊ",
       "vietnamese": "mặn",
       "example_ch": "湯有一點鹹。",
-      "example_vi": "Canh hơi mặn một chút.",
+      "example_vi": "Canh hơi mặn.",
       "pos": "adj",
       "level": "beginner"
     },
@@ -2758,8 +2758,8 @@
       "pinyin": "xiǎo",
       "zhuyin": "ㄒㄧㄠˇ",
       "vietnamese": "nhỏ",
-      "example_ch": "路上小心喔。",
-      "example_vi": "Đi đường cẩn thận nhé.",
+      "example_ch": "有小一點的嗎？",
+      "example_vi": "Có cỡ nhỏ hơn không?",
       "pos": "adj",
       "level": "beginner"
     },
@@ -2769,8 +2769,8 @@
       "pinyin": "duō",
       "zhuyin": "ㄉㄨㄛ",
       "vietnamese": "nhiều",
-      "example_ch": "一共多少錢？",
-      "example_vi": "Tổng cộng bao nhiêu tiền?",
+      "example_ch": "這裡人很多。",
+      "example_vi": "Ở đây đông người quá.",
       "pos": "adj",
       "level": "beginner"
     },
@@ -2813,8 +2813,8 @@
       "pinyin": "xīn",
       "zhuyin": "ㄒㄧㄣ",
       "vietnamese": "mới",
-      "example_ch": "這個新鮮嗎？",
-      "example_vi": "Cái này có tươi không?",
+      "example_ch": "請給我新的。",
+      "example_vi": "Cho tôi cái mới nhé.",
       "pos": "adj",
       "level": "beginner"
     },
@@ -2857,8 +2857,8 @@
       "pinyin": "lěng",
       "zhuyin": "ㄌㄥˇ",
       "vietnamese": "lạnh",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "今天很冷。",
+      "example_vi": "Hôm nay trời rất lạnh.",
       "pos": "adj",
       "level": "beginner"
     },
@@ -2890,8 +2890,8 @@
       "pinyin": "máng",
       "zhuyin": "ㄇㄤˊ",
       "vietnamese": "bận",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我今天很忙。",
+      "example_vi": "Hôm nay tôi rất bận.",
       "pos": "adj",
       "level": "beginner"
     },
@@ -2901,8 +2901,8 @@
       "pinyin": "lèi",
       "zhuyin": "ㄌㄟˋ",
       "vietnamese": "mệt",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我好累。",
+      "example_vi": "Tôi mệt quá.",
       "pos": "adj",
       "level": "beginner"
     },
@@ -2956,8 +2956,8 @@
       "pinyin": "bù",
       "zhuyin": "ㄅㄨˋ",
       "vietnamese": "không",
-      "example_ch": "不客氣。",
-      "example_vi": "Không có gì.",
+      "example_ch": "我不喜歡這個舊的。",
+      "example_vi": "Tôi không thích cái cũ này.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3033,8 +3033,8 @@
       "pinyin": "de",
       "zhuyin": "˙ㄉㄜ",
       "vietnamese": "của (trợ từ)",
-      "example_ch": "他是我的朋友。",
-      "example_vi": "Anh ấy là bạn của tôi.",
+      "example_ch": "這裡的雞排很脆。",
+      "example_vi": "Gà rán ở đây rất giòn.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3088,8 +3088,8 @@
       "pinyin": "ne",
       "zhuyin": "˙ㄋㄜ",
       "vietnamese": "thì sao? (trợ từ)",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我很好，你呢？",
+      "example_vi": "Tôi khỏe, còn bạn thì sao?",
       "pos": "other",
       "level": "beginner"
     },
@@ -3099,8 +3099,8 @@
       "pinyin": "a",
       "zhuyin": "˙ㄚ",
       "vietnamese": "à, ạ (trợ từ cảm thán)",
-      "example_ch": "天啊，好熱！",
-      "example_vi": "Trời ơi, nóng quá!",
+      "example_ch": "好啊！",
+      "example_vi": "Được chứ!",
       "pos": "other",
       "level": "beginner"
     },
@@ -3132,8 +3132,8 @@
       "pinyin": "yě",
       "zhuyin": "ㄧㄝˇ",
       "vietnamese": "cũng",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我也是越南人。",
+      "example_vi": "Tôi cũng là người Việt Nam.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3209,8 +3209,8 @@
       "pinyin": "bié",
       "zhuyin": "ㄅㄧㄝˊ",
       "vietnamese": "đừng",
-      "example_ch": "有別的顏色嗎？",
-      "example_vi": "Có màu khác không?",
+      "example_ch": "我餓的時候別跟我說話。",
+      "example_vi": "Lúc tôi đói thì đừng nói chuyện với tôi.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3221,7 +3221,7 @@
       "zhuyin": "ㄧˋ ㄉㄧㄢˇ",
       "vietnamese": "một chút",
       "example_ch": "湯有一點鹹。",
-      "example_vi": "Canh hơi mặn một chút.",
+      "example_vi": "Canh hơi mặn.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3264,8 +3264,8 @@
       "pinyin": "zài",
       "zhuyin": "ㄗㄞˋ",
       "vietnamese": "lại, thêm nữa",
-      "example_ch": "再見，下次見。",
-      "example_vi": "Tạm biệt, hẹn gặp lại.",
+      "example_ch": "請再給我一碗湯。",
+      "example_vi": "Cho tôi thêm một bát canh.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3330,8 +3330,8 @@
       "pinyin": "xià cì",
       "zhuyin": "ㄒㄧㄚˋ ㄘˋ",
       "vietnamese": "lần sau",
-      "example_ch": "再見，下次見。",
-      "example_vi": "Tạm biệt, hẹn gặp lại.",
+      "example_ch": "下次我請你。",
+      "example_vi": "Lần sau tôi mời bạn.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3341,8 +3341,8 @@
       "pinyin": "zuǒ",
       "zhuyin": "ㄗㄨㄛˇ",
       "vietnamese": "trái",
-      "example_ch": "一直走，然後左轉。",
-      "example_vi": "Đi thẳng rồi rẽ trái.",
+      "example_ch": "廁所在左邊。",
+      "example_vi": "Nhà vệ sinh ở bên trái.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3352,8 +3352,8 @@
       "pinyin": "yòu",
       "zhuyin": "ㄧㄡˋ",
       "vietnamese": "phải",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "飯店在右邊。",
+      "example_vi": "Khách sạn ở bên phải.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3363,8 +3363,8 @@
       "pinyin": "yīn wèi",
       "zhuyin": "ㄧㄣ ㄨㄟˋ",
       "vietnamese": "bởi vì",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "因為下雨，我沒去。",
+      "example_vi": "Vì trời mưa nên tôi không đi.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3374,8 +3374,8 @@
       "pinyin": "suǒ yǐ",
       "zhuyin": "ㄙㄨㄛˇ ㄧˇ",
       "vietnamese": "cho nên",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "我很餓，所以想吃飯。",
+      "example_vi": "Tôi đói nên muốn ăn cơm.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3528,8 +3528,8 @@
       "pinyin": "bǎi",
       "zhuyin": "ㄅㄞˇ",
       "vietnamese": "trăm",
-      "example_ch": "一百塊。",
-      "example_vi": "Một trăm Đài tệ.",
+      "example_ch": "這件衣服三百塊。",
+      "example_vi": "Cái áo này ba trăm Đài tệ.",
       "pos": "other",
       "level": "beginner"
     },
@@ -3561,8 +3561,8 @@
       "pinyin": "qiān",
       "zhuyin": "ㄑㄧㄢ",
       "vietnamese": "nghìn",
-      "example_ch": "",
-      "example_vi": "",
+      "example_ch": "這支手機一萬五千塊。",
+      "example_vi": "Chiếc điện thoại này mười lăm nghìn Đài tệ.",
       "pos": "other",
       "level": "beginner"
     }
@@ -3840,8 +3840,8 @@
                   "vietnamese": "Một hai ba bốn năm."
                 },
                 {
-                  "chinese": "我要一個這個。",
-                  "vietnamese": "Tôi muốn một cái này."
+                  "chinese": "我要這個。",
+                  "vietnamese": "Tôi muốn cái này."
                 },
                 {
                   "chinese": "給我兩杯水。",
@@ -3955,8 +3955,8 @@
                   "vietnamese": "Bây giờ tôi đi ăn cơm."
                 },
                 {
-                  "chinese": "請給我兩個人的位子。",
-                  "vietnamese": "Cho tôi chỗ ngồi hai người."
+                  "chinese": "我們兩位，有位子嗎？",
+                  "vietnamese": "Chúng tôi hai người, còn chỗ không?"
                 },
                 {
                   "chinese": "請給我菜單。",
@@ -4010,7 +4010,7 @@
                 },
                 {
                   "chinese": "湯有一點鹹。",
-                  "vietnamese": "Canh hơi mặn một chút."
+                  "vietnamese": "Canh hơi mặn."
                 },
                 {
                   "chinese": "這個太辣了。",
@@ -4164,8 +4164,8 @@
                   "vietnamese": "Hai trăm Đài tệ được không?"
                 },
                 {
-                  "chinese": "我買很多，算便宜一點。",
-                  "vietnamese": "Tôi mua nhiều, tính rẻ chút nhé."
+                  "chinese": "我買很多，算我便宜一點吧。",
+                  "vietnamese": "Tôi mua nhiều, bớt cho tôi chút nhé."
                 }
               ]
             },
@@ -4193,11 +4193,11 @@
               "questions": [
                 {
                   "chinese": "錢給你。",
-                  "vietnamese": "Tiền đây, gửi bạn."
+                  "vietnamese": "Tiền đây, bạn cầm nhé."
                 },
                 {
                   "chinese": "你可以找錢嗎？",
-                  "vietnamese": "Bạn có tiền thối không?"
+                  "vietnamese": "Bạn có tiền thối lại không?"
                 },
                 {
                   "chinese": "我沒有零錢。",
@@ -4211,7 +4211,7 @@
               "questions": [
                 {
                   "chinese": "我要一斤蘋果。",
-                  "vietnamese": "Tôi muốn một cân táo."
+                  "vietnamese": "Tôi muốn một cân táo (cân Đài, khoảng 600g)."
                 },
                 {
                   "chinese": "幫我秤一下。",
@@ -4488,7 +4488,7 @@
                   "vietnamese": "Em còn ngọt hơn trà sữa."
                 },
                 {
-                  "chinese": "我愛你比愛網路還多。",
+                  "chinese": "我愛你勝過愛網路。",
                   "vietnamese": "Anh yêu em hơn cả yêu mạng Internet."
                 },
                 {
